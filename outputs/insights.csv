@@ -1,0 +1,29 @@
+insight_id,type,indicator,entity,period,value,prev_value,change_pct,metric,change,severity,explanation
+INS-0001,trend,anc_coverage,Anand,2026-07,77.4,87.2,-11.23853211009174,77.4,-11.23853211009174,Medium,Anc Coverage in Anand decreased by 9.8 percentage points (11.2%) compared with the previous month.
+INS-0002,trend,anc_coverage,Mehsana,2026-06,42.0,86.6,-51.50115473441108,42.0,-51.50115473441108,High,Anc Coverage in Mehsana decreased by 44.6 percentage points (51.5%) compared with the previous month.
+INS-0003,trend,anc_coverage,Mehsana,2026-07,90.5,42.0,115.47619047619047,90.5,115.47619047619047,High,"Anc Coverage in Mehsana increased by 48.5 percentage points (115.5%) compared with the previous month. The previous month's value was flagged as an outlier, so this change may partly reflect a rebound from an unusual observation."
+INS-0004,trend,high_risk_cases,Ahmedabad,2026-04,9.0,7.0,28.57142857142857,9.0,28.57142857142857,Medium,High Risk Cases in Ahmedabad increased by 2 cases (28.6%) compared with the previous month.
+INS-0005,trend,high_risk_cases,Ahmedabad,2026-05,11.0,9.0,22.22222222222222,11.0,22.22222222222222,Medium,High Risk Cases in Ahmedabad increased by 2 cases (22.2%) compared with the previous month.
+INS-0006,trend,high_risk_cases,Anand,2026-05,12.0,10.0,20.0,12.0,20.0,Medium,High Risk Cases in Anand increased by 2 cases (20.0%) compared with the previous month.
+INS-0007,trend,high_risk_cases,Bhavnagar,2026-05,17.0,14.0,21.428571428571427,17.0,21.428571428571427,Medium,High Risk Cases in Bhavnagar increased by 3 cases (21.4%) compared with the previous month.
+INS-0008,trend,high_risk_cases,Bhavnagar,2026-07,14.0,16.0,-12.5,14.0,-12.5,Medium,High Risk Cases in Bhavnagar decreased by 2 cases (12.5%) compared with the previous month.
+INS-0009,trend,high_risk_cases,Bhavnagar,2026-08,17.0,14.0,21.428571428571427,17.0,21.428571428571427,Medium,High Risk Cases in Bhavnagar increased by 3 cases (21.4%) compared with the previous month.
+INS-0010,trend,high_risk_cases,Gandhinagar,2026-04,11.0,15.0,-26.666666666666668,11.0,-26.666666666666668,Medium,High Risk Cases in Gandhinagar decreased by 4 cases (26.7%) compared with the previous month.
+INS-0011,trend,high_risk_cases,Gandhinagar,2026-07,14.0,11.0,27.27272727272727,14.0,27.27272727272727,Medium,High Risk Cases in Gandhinagar increased by 3 cases (27.3%) compared with the previous month.
+INS-0012,trend,high_risk_cases,Jamnagar,2026-05,12.0,14.0,-14.285714285714285,12.0,-14.285714285714285,Medium,High Risk Cases in Jamnagar decreased by 2 cases (14.3%) compared with the previous month.
+INS-0013,trend,high_risk_cases,Jamnagar,2026-06,14.0,12.0,16.666666666666664,14.0,16.666666666666664,Medium,High Risk Cases in Jamnagar increased by 2 cases (16.7%) compared with the previous month.
+INS-0014,trend,high_risk_cases,Kutch,2026-04,13.0,11.0,18.181818181818183,13.0,18.181818181818183,Medium,High Risk Cases in Kutch increased by 2 cases (18.2%) compared with the previous month.
+INS-0015,trend,high_risk_cases,Kutch,2026-05,9.0,13.0,-30.76923076923077,9.0,-30.76923076923077,Medium,High Risk Cases in Kutch decreased by 4 cases (30.8%) compared with the previous month.
+INS-0016,trend,high_risk_cases,Kutch,2026-06,11.0,9.0,22.22222222222222,11.0,22.22222222222222,Medium,High Risk Cases in Kutch increased by 2 cases (22.2%) compared with the previous month.
+INS-0017,trend,high_risk_cases,Kutch,2026-07,8.0,11.0,-27.27272727272727,8.0,-27.27272727272727,Medium,High Risk Cases in Kutch decreased by 3 cases (27.3%) compared with the previous month.
+INS-0018,trend,high_risk_cases,Kutch,2026-08,11.0,8.0,37.5,11.0,37.5,Medium,High Risk Cases in Kutch increased by 3 cases (37.5%) compared with the previous month.
+INS-0019,trend,high_risk_cases,Mehsana,2026-04,13.0,15.0,-13.333333333333334,13.0,-13.333333333333334,Medium,High Risk Cases in Mehsana decreased by 2 cases (13.3%) compared with the previous month.
+INS-0020,trend,high_risk_cases,Mehsana,2026-06,28.0,12.0,133.33333333333331,28.0,133.33333333333331,High,High Risk Cases in Mehsana increased by 16 cases (133.3%) compared with the previous month.
+INS-0021,trend,high_risk_cases,Mehsana,2026-07,14.0,28.0,-50.0,14.0,-50.0,High,"High Risk Cases in Mehsana decreased by 14 cases (50.0%) compared with the previous month. The previous month's value was flagged as an outlier, so this change may partly reflect a rebound from an unusual observation."
+INS-0022,trend,high_risk_cases,Mehsana,2026-08,16.0,14.0,14.285714285714285,16.0,14.285714285714285,Medium,High Risk Cases in Mehsana increased by 2 cases (14.3%) compared with the previous month.
+INS-0023,trend,high_risk_cases,Rajkot,2026-04,12.0,10.0,20.0,12.0,20.0,Medium,High Risk Cases in Rajkot increased by 2 cases (20.0%) compared with the previous month.
+INS-0024,trend,high_risk_cases,Rajkot,2026-07,14.0,11.0,27.27272727272727,14.0,27.27272727272727,Medium,High Risk Cases in Rajkot increased by 3 cases (27.3%) compared with the previous month.
+INS-0025,trend,high_risk_cases,Surat,2026-08,14.0,11.0,27.27272727272727,14.0,27.27272727272727,Medium,High Risk Cases in Surat increased by 3 cases (27.3%) compared with the previous month.
+INS-0026,trend,high_risk_cases,Vadodara,2026-08,14.0,11.0,27.27272727272727,14.0,27.27272727272727,Medium,High Risk Cases in Vadodara increased by 3 cases (27.3%) compared with the previous month.
+INS-0027,outlier,anc_coverage,Mehsana,2026-06,42.0,,,42.0,,High,Anc Coverage for Mehsana in 2026-06 is an outlier under the IQR rule (observed value: 42).
+INS-0028,outlier,high_risk_cases,Mehsana,2026-06,28.0,,,28.0,,High,High Risk Cases for Mehsana in 2026-06 is an outlier under the IQR rule (observed value: 28).
